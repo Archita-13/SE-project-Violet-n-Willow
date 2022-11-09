@@ -20,6 +20,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.1",
     "cloudinary": "^1.32.0",
+    "components": "^0.1.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
@@ -31,7 +32,12 @@
     "mongoose": "^6.7.1",
     "nodemailer": "^6.8.0",
     "paytmchecksum": "^1.5.0",
+    "react": "16.8",
+    "react-dom": "16.8",
+    "react-is": "16.8",
     "stripe": "^10.16.0",
+    "styled": "^1.0.0",
+    "styled-components": "^5.0.0",
     "uuid": "^9.0.0",
     "validator": "^13.7.0"
   }
